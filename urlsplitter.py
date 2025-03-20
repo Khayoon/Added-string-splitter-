@@ -10,4 +10,4 @@ string = " "
 
 count = count_strings_between_pluses(string)
 
-print(f"'{string}' has {count1} strings.")
+print(f"'{string}' has {count} strings.")
